@@ -20,7 +20,7 @@ font-family: 'Open Sans', sans-serif;}
 #img-div{margin:auto;
   width:80%;
   text-align:center;
-background-color:cyan}
+  background:white;}
 
 /*SECTION*/
 #tribute-info{padding: 50px;
